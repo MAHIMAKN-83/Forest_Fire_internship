@@ -1,2 +1,2 @@
-# Forest_Fire_internship
+# Forest_Fire_Internship
 Forest  Fire Prediction using AIML Algorithms
